@@ -22,7 +22,7 @@ Python 3, Data Visualisation, Data Analytics, Statistics, Excel, Operating Syste
   * Link :
   * [https://github.com/JatinK18/Projects/tree/main/Python#:~:text=ATM%20Management%20System.ipynb ](https://github.com/JatinK18/Projects/blob/main/Python/ATM%20Management%20System.ipynb)
 
-* Data Visualisatin using Excel:
+* Data Visualisation using Excel:
   * Loksabha Elections -2014 Dataset:- Dynamic Visualisation of dataset using Excel, gives the insights and comparision between BJP and INC during the 2014 loksabha Elections.
 
 * Virtual Machine:
